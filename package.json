@@ -1,6 +1,6 @@
 {
   "name": "nuxt-chartjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nuxt module for chart.js",
   "author": "Amber Artem <lapiklaptev@gmail.com>",
   "license": "MIT",
