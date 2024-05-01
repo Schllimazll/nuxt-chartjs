@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-chartjs",
+  "version": "1.0.0",
+  "description": "Nuxt module for chart.js",
+  "author": "Amber Artem <lapiklaptev@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "chart.js",
+    "chartjs",
+    "nuxt",
+    "nuxt-module",
+    "nuxt-module-chartjs",
+    "nuxt chartjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schllimazll/nuxt-chartjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Schllimazll/nuxt-chartjs/issues"
+  },
+  "homepage": "https://github.com/Schllimazll/nuxt-chartjs#readme",
+  "main": "./src/module.js",
+  "exports": "./src/module.js"
+}
